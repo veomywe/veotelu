@@ -1,0 +1,6 @@
+
+{
+  "name": "Veo 3 Prompt Generator",
+  "description": "A React application to help users generate detailed video prompts for Veo 3, allowing customization of subject, action, setting, artistic style, camera shot, lighting, and more, with AI enhancement and translation capabilities.",
+  "requestFramePermissions": []
+}
